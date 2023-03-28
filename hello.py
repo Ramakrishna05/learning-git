@@ -7,3 +7,6 @@ print(f"{a}")
 b = 10
 c = 1000
 print(f"{b+c :,}")
+
+# print
+print("New print statement")
